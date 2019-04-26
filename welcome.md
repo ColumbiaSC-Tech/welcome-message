@@ -1,0 +1,72 @@
+Welcome to ColumbiaSC-Tech Slack Community! We're so glad you joined!
+
+Please familiarize yourself with our basic community standards below, or see the full version at https://github.com/ColumbiaSC-Tech/slack-community/blob/master/code-of-conduct.md .
+
+*Our Standards*
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+• Using welcoming and inclusive language
+• Being respectful of differing viewpoints and experiences
+• Gracefully accepting constructive criticism
+• Focusing on what is best for the community
+• Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+• The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+• Trolling, insulting/derogatory comments, and personal or political attacks
+• Public or private harassment
+• Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+• Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+In the spirit of organization we have several specific channels available for more focused conversations. 
+Here's a list of our current channels and their purposes (subject to change) as well as some additional resources.
+
+*Slack Channels*
+
+~ #announcements: Upcoming events & meetups in the Columbia area
+
+~ #bitcoin-tech: Covering crypto-currencies, blockchain and smart-contract technologies
+
+~ #bot-qa: For testing our bots. If you find an error please pin it with a brief report of the bug.
+
+~ #coding-general: Covering all programming languages and back-end programming topics, include Object-Oriented Programming, Functional Programming etc. Front-end programming topics should go to #frontend-ux.
+
+~ #digital-nomad: Any and all things related to working freelance/remotely.
+
+~ #frontend-ux: Covering all things front-end, including Design/UX, Web and GUI programming topics and frameworks, like JavaScript, React, Vue, Electron, Arachne etc. Showing and requesting feedback on UI design is also welcome here.
+
+~ #health-fitness: This channel is focused around issues of health, fitness, vitality and office-ergonomics.
+
+~ #info-sec: For discussion of best practices, current events, tools, and other topics in information security
+
+~ #introductions: Introduce yourself!
+
+~ #jobs: Discussion about tech jobs and companies in the Columbia area
+
+~ #meetup-clojure: For the Columbia SC Clojure Co-Lab MeetUp group and any other related Clojure discussions.
+
+~ #meetup-opensource: For the Open Source South Carolina MeetUp group and any other related open source discussions.
+
+~ #meetup-python: For the Columbia SC Python User Group MeetUp and any other Python related discussions.
+
+~ #member-promos: A place to promote work you’ve done or something you have to offer.
+
+~ #our-community: Discussions about things we can do to make our Slack and Cola tech community better. Apps, integrations, bots, lightning-talks, channels, IRL programs/meetups etc.
+
+~ #tools-platforms: Discussion of all tools and platforms used to construct software, from git and github, CI/CD, devops tools and Cloud Platforms, including AWS and Azure.
+
+~ #watercooler: This channel is for team-wide communication and announcements. All team members are in this channel.
+
+*Other Resources*
+
+~ Landing Page: https://columbiasc.tech
+
+Now that you're familiar with our community, standards and channels, please drop by the #introductions channel and introduce yourself to the community, then jump in the conversation at #watercooler or any one of our other channels!
+
+Thanks again for joining, and we look forward to meeting you!
